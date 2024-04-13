@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="exam_b.WorkDB">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAACCAAkAAAEQUSACCYIAAgAAAAAAggAIIAgAQ=</HashCode>
+      <FileName>WorkDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.UserStatistics">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAAAAAAAAQAAAAAAAQAAAABAAAAAAAAgAAABA=</HashCode>
+      <FileName>UserStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.QuestionNode">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAACAAAAAAAAAAAAAAAAAQAAAAIACAA=</HashCode>
+      <FileName>QuestionNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.Game">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAgAACEIAAAAAAAAAAAAAAAAAAEAABA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.MyUser">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAgAAIAAAwAAAAEAAACAABAAgAAAAA=</HashCode>
+      <FileName>MyUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.ExcelTable">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAEAAAAIAABAAIAAABAAGACAAAA=</HashCode>
+      <FileName>ExcelTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.FormEntry">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEABAACCgAAAAAAGAgCCCQgCAABcAIAAQAkAAAAA=</HashCode>
+      <FileName>FormEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.MainForm">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ggYAAEgEBDhgRj9dOADPjQRqBRLbITyBMXAKDVGHn+A=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exam_b.Program">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
